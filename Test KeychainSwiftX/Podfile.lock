@@ -1,0 +1,16 @@
+PODS:
+  - KeychainSwiftX (1.0.0)
+
+DEPENDENCIES:
+  - KeychainSwiftX (from `../KeychainSwiftX/`)
+
+EXTERNAL SOURCES:
+  KeychainSwiftX:
+    :path: "../KeychainSwiftX/"
+
+SPEC CHECKSUMS:
+  KeychainSwiftX: 73dc29b70477e1997a01165ab530d3460857e24d
+
+PODFILE CHECKSUM: 0d0254648b29b6443d66a9461cfbc6d07614d500
+
+COCOAPODS: 1.9.1
